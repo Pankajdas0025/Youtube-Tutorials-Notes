@@ -39,9 +39,13 @@ Here you'll find:
 
 ---
 
-## 🧭 How to Use
+## 🛡️ License
 
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/your-username/YouTube-Tutorials-Notes.git
+© 2025 CampusXchange. All Rights Reserved.  
+
+This repository and its contents are the intellectual property of **CampusXchange**.  
+You may **view or download files** for personal learning purposes only.  
+Any reproduction, modification, redistribution, or commercial use is strictly prohibited without written permission.
+
+
 
